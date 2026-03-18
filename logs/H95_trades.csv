@@ -1,2 +1,2 @@
 signal_id,hypothesis_id,instrument,direction,trigger_datetime_utc,trigger_description,trigger_value,entry_datetime_utc,entry_price,exit_datetime_utc,exit_price,return_gross_bps,cost_bps,return_net_bps,hold_days,status,git_sha_entry,git_sha_exit
-H95-2026-03-18,H95,TLT,long,2026-03-17T22:02:04Z,"FOMC announcement 2026-03-18, pre-drift entry",FOMC 2026-03-18,2026-03-17T22:02:04Z,87.44999694824219,,,,5.0,,,OPEN,,
+H95-2026-03-18,H95,TLT,long,2026-03-17T22:02:04Z,"FOMC announcement 2026-03-18, pre-drift entry",FOMC 2026-03-18,2026-03-17T22:02:04Z,87.44999694824219,2026-03-18T21:58:24Z,86.95500183105469,-56.6,5.0,-61.6,1,CLOSED,,
