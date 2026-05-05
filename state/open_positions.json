@@ -1,6 +1,15 @@
 {
   "cascade": {},
-  "macro": {},
+  "macro": {
+    "H95-2026-05-06": {
+      "hypothesis_id": "H95",
+      "instrument": "TLT",
+      "entry_time": "2026-05-05T22:30:42Z",
+      "entry_price": 85.43000030517578,
+      "exit_date": "2026-05-06",
+      "trigger": "FOMC 2026-05-06"
+    }
+  },
   "last_processed_bar_ms": 1772542800000,
   "last_cascade_time": ""
 }
