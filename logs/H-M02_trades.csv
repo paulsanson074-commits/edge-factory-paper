@@ -1,2 +1,2 @@
 signal_id,hypothesis_id,instrument,direction,trigger_datetime_utc,trigger_description,trigger_value,entry_datetime_utc,entry_price,exit_datetime_utc,exit_price,return_gross_bps,cost_bps,return_net_bps,hold_days,status,git_sha_entry,git_sha_exit
-HM02-20260619,H-M02,USDBRL,long,2026-06-19T22:30:49Z,DXY new 52w high: 100.85 > 100.51,DXY=100.85,2026-06-19T22:30:49Z,5.141499996185303,,,,20.0,,,OPEN,,
+HM02-20260619,H-M02,USDBRL,long,2026-06-19T22:30:49Z,DXY new 52w high: 100.85 > 100.51,DXY=100.85,2026-06-19T22:30:49Z,5.141499996185303,2026-07-10T22:31:49Z,5.107500076293945,-66.13,20.0,-86.13,21,CLOSED,,
