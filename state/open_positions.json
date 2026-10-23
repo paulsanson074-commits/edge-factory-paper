@@ -1,15 +1,6 @@
 {
   "cascade": {},
-  "macro": {
-    "HM02-20261002": {
-      "hypothesis_id": "H-M02",
-      "instrument": "USDBRL",
-      "entry_time": "2026-10-02T01:00:25Z",
-      "entry_price": 5.222499847412109,
-      "exit_date": "2026-10-23",
-      "trigger": "DXY 102.07"
-    }
-  },
+  "macro": {},
   "last_processed_bar_ms": 1792313100000,
   "last_cascade_time": ""
 }
